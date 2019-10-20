@@ -1,2 +1,2 @@
 # Firstrepo
-First repository(testing)
+Learning Git 
